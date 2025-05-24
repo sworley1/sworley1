@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Is this thing on?
+Be sure to check out my blog(ish) site: [https://sworley1.github.io/](https://sworley1.github.io/)
